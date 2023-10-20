@@ -75,3 +75,11 @@ body{
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
+.rodape{
+    background-color: #000000;
+    text-align: center;
+}
+
+.rodape-img{
+    height: 40px;
+}
